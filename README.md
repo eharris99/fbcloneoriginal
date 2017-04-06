@@ -1,2 +1,1 @@
-
- fbcloneoriginal no react
+# build directory
